@@ -1,6 +1,3 @@
 [submodule "Ada_Drivers_Library"]
 	path = Ada_Drivers_Library
 	url = https://github.com/AdaCore/Ada_Drivers_Library
-[submodule "runtime"]
-	path = runtime
-	url = https://github.com/Fabien-Chouteau/zfp-nrf51
