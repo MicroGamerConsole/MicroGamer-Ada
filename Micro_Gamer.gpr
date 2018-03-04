@@ -7,7 +7,7 @@ project Micro_Gamer Is
   for Target use "arm-eabi";
   for Main use ("main.adb");
   for Languages use ("Ada");
-  for Source_Dirs use ("src");
+  for Source_Dirs use ("src", "Ada_Drivers_Library/examples/shared/common/gui/");
   for Object_Dir use "obj";
   for Create_Missing_Dirs use "True";
 
