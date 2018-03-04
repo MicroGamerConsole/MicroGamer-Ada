@@ -1,5 +1,6 @@
 with "Ada_Drivers_Library/boards/MicroBit/microbit.gpr";
 with "Ada_Drivers_Library/boards/config";
+with "runtime/runtime_build.gpr";
 
 project Micro_Gamer Is
 

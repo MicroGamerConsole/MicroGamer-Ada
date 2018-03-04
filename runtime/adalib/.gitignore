@@ -1,0 +1,5 @@
+*.o
+*.ci
+*.ali
+libgnat.a
+
