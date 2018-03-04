@@ -86,10 +86,6 @@ package body Micro_Gamer is
                                Mode   => HAL.Bitmap.M_1);
       Screen.Turn_On;
 
-      -- RNG --
-
-      nRF51.RNG.Start;
-
       Init_Done := True;
    end Initialize;
 
